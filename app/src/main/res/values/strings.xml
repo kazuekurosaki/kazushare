@@ -1,0 +1,6 @@
+// name=app/src/main/res/values/strings.xml
+<resources>
+    <string name="app_name">FileStorage</string>
+    <!-- default_web_client_id must be filled with OAuth 2.0 client ID (Web) for Google Sign-In -->
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID_HERE</string>
+</resources>
